@@ -39,3 +39,4 @@ Step 7: Using the Application
     Load a CSV File: Click on the button to select and load a CSV file.
     Enter Search Term: Enter the search term you’re looking for in the CSV file.
     Search: Click the search button to initiate the search. The program will display the search results, including sequential and parallel search times and the total number of occurrences.
+    
